@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println("New branch called developer.")
 
-        println("Salam from Developer.")
+        println("Salam from Olzhas.")
     }
 }
